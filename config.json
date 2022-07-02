@@ -1,0 +1,9 @@
+{
+	"ip":"ITHIHASA_MOBILE.aternos.me",
+	"port": 26668,
+	"name": "BOT_ITHIHASA",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (nightbot(remember_no_spaces)) (nightbot(remember_no_spaces))",
+	"login-cmd":"/login (nightbot)"
+}
